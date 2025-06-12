@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Extrator de Frequência",
+  "version": "1.0",
+  "description": "Extrai e formata dados de frequência da página.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
